@@ -7,4 +7,5 @@ class AppColors {
   static const Color backgroundDark = Color(0xFF121212);
   static const Color textLight = Colors.black87;
   static const Color textDark = Colors.white;
+  static const Color textDarklocal = Colors.white;
 }
